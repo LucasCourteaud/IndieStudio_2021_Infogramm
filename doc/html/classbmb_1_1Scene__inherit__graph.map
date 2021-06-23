@@ -1,0 +1,13 @@
+<map id="bmb::Scene" name="bmb::Scene">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,104,260"/>
+<area shape="rect" id="node2" href="$classbmb_1_1scene_1_1Game.html" title=" " alt="" coords="169,5,313,32"/>
+<area shape="rect" id="node3" href="$classbmb_1_1scene_1_1HowToPlay.html" title=" " alt="" coords="153,56,329,83"/>
+<area shape="rect" id="node4" href="$classbmb_1_1scene_1_1Loading.html" title=" " alt="" coords="163,107,319,133"/>
+<area shape="rect" id="node5" href="$classbmb_1_1scene_1_1Menu.html" title=" " alt="" coords="171,157,312,184"/>
+<area shape="rect" id="node6" href="$classbmb_1_1scene_1_1Options.html" title=" " alt="" coords="164,208,319,235"/>
+<area shape="rect" id="node7" href="$classbmb_1_1scene_1_1Pause.html" title=" " alt="" coords="170,259,313,285"/>
+<area shape="rect" id="node8" href="$classbmb_1_1scene_1_1Scoreboard.html" title=" " alt="" coords="152,309,331,336"/>
+<area shape="rect" id="node9" href="$classbmb_1_1scene_1_1SelectMap.html" title=" " alt="" coords="155,360,328,387"/>
+<area shape="rect" id="node10" href="$classbmb_1_1scene_1_1Settings.html" title=" " alt="" coords="162,411,321,437"/>
+<area shape="rect" id="node11" href="$classbmb_1_1scene_1_1Transition.html" title=" " alt="" coords="157,461,325,488"/>
+</map>

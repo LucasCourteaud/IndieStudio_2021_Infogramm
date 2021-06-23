@@ -1,0 +1,6 @@
+<map id="bmb::character::Character" name="bmb::character::Character">
+<area shape="rect" id="node1" title=" " alt="" coords="70,80,261,107"/>
+<area shape="rect" id="node3" href="$classbmb_1_1character_1_1AI.html" title=" " alt="" coords="5,155,147,181"/>
+<area shape="rect" id="node4" href="$classbmb_1_1character_1_1Player.html" title=" " alt="" coords="171,155,341,181"/>
+<area shape="rect" id="node2" href="$classbmb_1_1entity_1_1Entity.html" title=" " alt="" coords="94,5,237,32"/>
+</map>

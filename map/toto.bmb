@@ -1,0 +1,15 @@
+[HEADER]
+OFFSET_X=10
+OFFSET_Y=8
+
+[MAP]
+WWWWWWWWWWWWWWWW
+WS            SW
+W              W
+W BBBBBBBBBBBB W
+W  B B B B B B W
+W  B B B B B B W
+W  B BBB B BBB W
+W              W
+WS            SW
+WWWWWWWWWWWWWWWW

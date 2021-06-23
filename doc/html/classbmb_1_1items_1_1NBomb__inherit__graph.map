@@ -1,0 +1,6 @@
+<map id="bmb::items::NBomb" name="bmb::items::NBomb">
+<area shape="rect" id="node1" title=" " alt="" coords="11,229,163,256"/>
+<area shape="rect" id="node2" href="$classbmb_1_1items_1_1PowerUp.html" title=" " alt="" coords="5,155,168,181"/>
+<area shape="rect" id="node3" href="$classbmb_1_1items_1_1Items.html" title=" " alt="" coords="16,80,157,107"/>
+<area shape="rect" id="node4" href="$classbmb_1_1entity_1_1Entity.html" title=" " alt="" coords="15,5,158,32"/>
+</map>

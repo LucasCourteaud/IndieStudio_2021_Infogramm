@@ -1,0 +1,11 @@
+<map id="bmb::character::Character" name="bmb::character::Character">
+<area shape="rect" id="node1" title=" " alt="" coords="745,123,936,149"/>
+<area shape="rect" id="node2" href="$classbmb_1_1entity_1_1Entity.html" title=" " alt="" coords="466,5,609,32"/>
+<area shape="rect" id="node3" href="$classbmb_1_1rlib_1_1EVector3.html" title=" " alt="" coords="465,57,610,98"/>
+<area shape="rect" id="node4" href="$classbmb_1_1rlib_1_1EModel.html" title=" " alt="" coords="469,123,605,149"/>
+<area shape="rect" id="node5" href="$classbmb_1_1rlib_1_1EText.html" title=" " alt="" coords="476,173,599,200"/>
+<area shape="rect" id="node6" href="$classbmb_1_1rlib_1_1shapes2D_1_1ERectangle.html" title=" " alt="" coords="461,225,613,266"/>
+<area shape="rect" id="node7" href="$classbmb_1_1rlib_1_1Shapes2D.html" title=" " alt="" coords="259,232,412,259"/>
+<area shape="rect" id="node8" href="$classbmb_1_1rlib_1_1EVector2.html" title=" " alt="" coords="5,195,151,237"/>
+<area shape="rect" id="node9" href="$classbmb_1_1rlib_1_1EColor.html" title=" " alt="" coords="13,261,143,288"/>
+</map>

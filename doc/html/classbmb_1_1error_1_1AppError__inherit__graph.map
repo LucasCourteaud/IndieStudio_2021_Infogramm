@@ -1,0 +1,8 @@
+<map id="bmb::error::AppError" name="bmb::error::AppError">
+<area shape="rect" id="node1" title=" " alt="" coords="168,111,323,138"/>
+<area shape="rect" id="node3" href="$classbmb_1_1error_1_1BlockFactoryError.html" title=" " alt="" coords="387,5,568,47"/>
+<area shape="rect" id="node4" href="$classbmb_1_1error_1_1CharacterFactoryError.html" title=" " alt="" coords="373,71,581,112"/>
+<area shape="rect" id="node5" href="$classbmb_1_1error_1_1CharacterManageError.html" title=" " alt="" coords="371,136,584,177"/>
+<area shape="rect" id="node6" href="$classbmb_1_1error_1_1MapParserError.html" title=" " alt="" coords="379,202,576,229"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,111,120,138"/>
+</map>
