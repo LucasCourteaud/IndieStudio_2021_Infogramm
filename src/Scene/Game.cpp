@@ -192,7 +192,7 @@ void bmb::scene::Game::loop(uniqueWindow &window, bmb::character::CharacterManag
     }
     if (_characterAlive.size() == 0 || (_timeRound - _timePass) < 0)
         reset(cManager);
-    window->clearBackground(bmb::rlib::color::White);
+    window->clearBackground(bmb::rlib::EColor(bmb::rlib::EVector4<unsigned char>(138, 138, 138, 255)));
     window->beginDrawing();
     _mainCamera.beginMode3D();
     for (auto it : tmp)

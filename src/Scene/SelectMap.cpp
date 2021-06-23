@@ -164,7 +164,7 @@ void bmb::scene::SelectMap::loop(uniqueWindow &window, bmb::character::Character
         audioManager.playSound("click", true);
         centerCameraMap();
     }
-    window->clearBackground(bmb::rlib::color::White);
+    window->clearBackground(bmb::rlib::EColor(bmb::rlib::EVector4<unsigned char>(138, 138, 138, 255)));
     window->beginDrawing();
     _mainCamera.beginMode3D();
     DrawGrid(100, 10.f);
